@@ -1,0 +1,158 @@
+.header{
+    width:100%;
+    height:82px;
+    background:#3b5998;
+
+}
+body{
+    margin:0;
+}
+.logo {
+    color:white;
+    padding-top :25px;
+    float: left;
+}
+.logo-text{
+    color: white;
+    text-decoration: none;
+    font-size: 38px;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 180px;
+}
+.login{
+    float:right;
+    padding-right: 100px;
+    padding-top: 5px;
+}
+.login-label1{
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    padding-right:70px;
+}
+.login-label2{
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    padding-right:110px;
+}
+.for-acc{
+    color: darkgrey;
+    padding-left: 8px;
+    font-size: 15px;
+}
+.submit{
+    background-color: #4267b2;
+    border-color: #4267b2;
+    color: white;
+    height:20px;
+    cursor:pointer;
+}
+.submit:hover{
+    background:darkslateblue;
+}
+.content{
+    background:#e8e6f0;
+    width:100%;
+    height:100%;
+}
+.content1{
+    height:104px;
+    background: #e8e6f0;
+    margin: 0 auto;
+}
+body{
+    margin:0;
+}
+.maintext1{
+    color: #1c1e21;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 180px;
+    padding-top: 28px;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+.maintext2{
+    font-size: 14px;
+    margin:10px;
+    font-family:Helvetica, Arial, sans-serif;
+    padding-left: 170px;
+}
+.content2{
+    background: #e8e6f0;
+    width:100%;
+}
+.leftsec{
+    background: #e8e6f0;
+    float:left;
+    width:50%;
+    height:500px;
+    
+}
+.rightsec{
+    background: #e8e6f0;
+    float:left;
+    width:50%;
+    height:500px;
+    
+}
+.box1{
+   width:467px;
+   height:478px;
+   background:#fff;
+   margin-top:30px;
+   margin-left:263px;
+   
+}
+.box2{
+    width:467px;
+    height:478px;
+    background:#fff;
+    margin-left: 15px;
+    margin-top: 30px;
+    
+ }
+ .businesslogo{
+    padding-top:24px;
+    padding-left: 28%;
+ }
+ .btext1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 35%;
+    padding-top:24px;
+    font-size: 18px;
+ }
+ .btext2{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+    padding-top: 15px;
+    font-size:14px;
+    color:#90949C;
+    text-align: center;
+ }
+ .communitylogo{
+    padding-top:24px;
+    padding-left: 28%;
+ }
+ .ctext1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 28%;
+    padding-top:24px;
+    font-size: 18px;
+ }
+ .ctext2{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 1%;
+    padding-top: 15px;
+    font-size:14px;
+    color:#90949C;
+    text-align: center;
+ }
+ .lastbutton{
+    padding-left: 42%;
+    padding-top: 70px;
+ }
