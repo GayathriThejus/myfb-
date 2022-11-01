@@ -1,1 +1,74 @@
-# myfb-
+# myfb- fb.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+    <link href="stylefb.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="container">
+    <div class="header">
+        <div class="logo">
+            <a class="logo-text" href="fb.html">facebook</a>
+        </div>
+        <div class="login">
+            <table class="login controls">
+                <thead>
+                    <tr>
+                    <th><label class="login-label1">Email or phone</label></th>
+                    <th><label class="login-label2">Password</label></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type="email/number"></td>
+                        <td><input type="password"></td>
+                        <td ><input class="submit" type="submit" value="Login"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><a class="for-acc" href="fb.html">Forgotten account?</a></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+        </div>
+    </div>
+    <div class="content">
+        <div class="content1">
+            <div class="maintext">
+             <div class="maintext1">Create a Page </div>
+             <div class="maintext2">Connect your business, yourself or your cause to the worldwide community of people on Facebook. To get started, choose a Page category.</div>
+            </div>
+        </div>
+        <div class="content2">
+            <div class="leftsec">
+             <div class="box1">
+                <div class="businesslogo">
+                    <img src="img/biz_illustration.png">
+                </div>
+                <div class="btext1">Business or brand</div>
+                <div class="btext2">Showcase your products and services, spotlight your brand and reach more customers on Facebook.</div>
+                <div class="lastbutton"><button>Get started</button></div>
+            </div>
+            </div>
+            <div class="rightsec">
+                <div class="box2">
+                    <div class="communitylogo">
+                        <img src="img/community_illustration.png">
+                    </div>
+                    <div class="ctext1">Community or public figure</div>
+                    <div class="ctext2">Connect and share with people in your community, organisation, team, group or club.</div>
+                    <div class="lastbutton"><button>Get started</button></div>
+                </div>
+                </div>
+            </div>
+        </div> 
+       
+    </div>
+</div>
+</body>
+</html>
